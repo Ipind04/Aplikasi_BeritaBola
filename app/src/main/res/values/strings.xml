@@ -4,27 +4,27 @@
 
     <!-- Deskripsi berita pertama tentang El Clasico antara Real Madrid dan Barcelona -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di antaranews.com -->
-    <string name="beritabolaterbaru1">El Clasico Menanti Pertandingan akbar antara Real Madrid dan Barcelona akan berlangsung akhir pekan ini. Ini adalah salah satu laga paling dinanti di Liga Spanyol. <a href="https://www.antaranews.com/berita/4422009/jadwal-liga-spanyol-ada-el-clasico-madrid-vs-barcelona">Selengkapnya</a></string>
+    <string name="beritabolaterbaru1">El Clasico Menanti Pertandingan akbar antara Real Madrid dan Barcelona akan berlangsung akhir pekan ini.</string>
 
     <!-- Deskripsi berita kedua tentang hasil kualifikasi Piala Asia U-17 antara Indonesia U-17 melawan Kepulauan Mariana Utara -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di bola.com -->
-    <string name="beritabolaterbaru2">Hasil Kualifikasi Piala Asia U-17 2025: Timnas Indonesia U-17 Habisi Kepulauan Mariana Utara 10-0. <a href="https://www.bola.com/indonesia/read/5760389/">Selengkapnya</a></string>
+    <string name="beritabolaterbaru2">Hasil Kualifikasi Piala Asia U-17 2025</string>
 
     <!-- Deskripsi berita ketiga tentang Federico Chiesa dan opsi kembali ke Italia -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di bola.net -->
-    <string name="beritabolaterbaru3">Dianggap Gagal di Premier League, Federico Chiesa Lirik Opsi Balik ke Italia? <a href="https://www.bola.net/inggris/dianggap-gagal-di-premier-league-federico-chiesa-lirik-opsi-balik-ke-italia-abb506.html">Selengkapnya</a></string>
+    <string name="beritabolaterbaru3">Dianggap Gagal di Premier League, Federico Chiesa Lirik Opsi Balik ke Italia? </string>
 
     <!-- Deskripsi berita keempat tentang Barcelona di bawah kepelatihan Hansi Flick -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di detik.com -->
-    <string name="beritabolaterbaru4">Barcelona-nya Hansi Flick: Muda, Beda, dan Berbahaya. <a href="https://sport.detik.com/sepakbola/liga-spanyol/d-7605833/">Selengkapnya</a></string>
+    <string name="beritabolaterbaru4">Barcelona-nya Hansi Flick: Muda, Beda, dan Berbahaya.</string>
 
     <!-- Deskripsi berita kelima tentang Barcelona yang menang melawan Bayern, komentar Raphinha tentang balas dendam -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di bola.net -->
-    <string name="beritabolaterbaru5">Barcelona Lumat Bayern, Raphinha: Ini Balas Dendam. <a href="https://www.bola.net/s">Selengkapnya</a></string>
+    <string name="beritabolaterbaru5">Barcelona Lumat Bayern, Raphinha: Ini Balas Dendam.</string>
 
     <!-- Deskripsi berita keenam tentang Manchester United yang bersaing dengan Liverpool dalam perebutan wonderkid Argentina -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di bola.net -->
-    <string name="beritabolaterbaru6">Manchester United Saingi Liverpool Dalam Perburuan Wonderkid Argentina Ini. <a href="https://www.bola.net/inggris/0073ee.html">Selengkapnya</a></string>
+    <string name="beritabolaterbaru6">Manchester United Saingi Liverpool Dalam Perburuan Wonderkid Argentina Ini.</string>
 
     <!-- Deskripsi berita ketujuh tentang AC Milan yang mencari calon pengganti Theo Hernandez -->
     <!-- Tidak ada tautan "Selengkapnya" untuk berita ini -->
@@ -32,13 +32,14 @@
 
     <!-- Deskripsi berita kedelapan tentang hasil imbang pertandingan derbi yang dinanti-nanti -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di bola.net -->
-    <string name="beritabolaterbaru8">Pertandingan derbi yang ditunggu-tunggu berakhir imbang. <a href="https://www.bola.net/italia/fc0ef1.html">Selengkapnya</a></string>
+    <string name="beritabolaterbaru8">Pertandingan derbi yang ditunggu-tunggu berakhir imbang.</string>
 
     <!-- Deskripsi berita kesembilan tentang Lamine Yamal yang berkeinginan menjadi legenda di Barcelona -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di bola.net -->
-    <string name="beritabolaterbaru9">Pindah Klub? Lamine Yamal Maunya Jadi Legenda di Barcelona! <a href="https://www.bola.net/spanyol/b2a75e.html">Selengkapnya</a></string>
+    <string name="beritabolaterbaru9">Pindah Klub? Lamine Yamal Maunya Jadi Legenda di Barcelona!</string>
 
     <!-- Deskripsi berita kesepuluh tentang Real Madrid yang dikalahkan Barcelona 0-4 -->
     <!-- Teks "Selengkapnya" mengandung tautan ke berita lengkap di detik.com -->
-    <string name="beritabolaterbaru10">Real Madrid Vs Barcelona: Los Blancos Dihajar 0-4. <a href="https://sport.detik.com/sepakbola/liga-spanyol/d-7608188/real-madrid-vs-barcelona-los-blancos-dihajar-0-4">Selengkapnya</a></string>
+    <string name="beritabolaterbaru10">Real Madrid Vs Barcelona: Los Blancos Dihajar 0-4. </string>
+    <string name="judul_berita_bola" />
 </resources>
